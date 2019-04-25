@@ -158,7 +158,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label9->Name = L"label9";
 			this->label9->Size = System::Drawing::Size(98, 13);
 			this->label9->TabIndex = 2;
-			this->label9->Text = L"Öåòð êîîðäèíàò X";
+			this->label9->Text = L"Ð¦ÐµÑ‚Ñ€ ÐºÐ¾Ð¾Ñ€Ð´Ð¸Ð½Ð°Ñ‚ X";
 			// 
 			// label10
 			// 
@@ -169,7 +169,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label10->Name = L"label10";
 			this->label10->Size = System::Drawing::Size(104, 13);
 			this->label10->TabIndex = 2;
-			this->label10->Text = L"Öåíòð êîîðäèíàò Y";
+			this->label10->Text = L"Ð¦ÐµÐ½Ñ‚Ñ€ ÐºÐ¾Ð¾Ñ€Ð´Ð¸Ð½Ð°Ñ‚ Y";
 			this->label10->TextAlign = System::Drawing::ContentAlignment::MiddleCenter;
 			// 
 			// TrackMidX
@@ -204,7 +204,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label11->Name = L"label11";
 			this->label11->Size = System::Drawing::Size(63, 13);
 			this->label11->TabIndex = 2;
-			this->label11->Text = L"Ìàñøòàá X";
+			this->label11->Text = L"ÐœÐ°ÑÑˆÑ‚Ð°Ð± X";
 			// 
 			// label12
 			// 
@@ -215,7 +215,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label12->Name = L"label12";
 			this->label12->Size = System::Drawing::Size(63, 13);
 			this->label12->TabIndex = 2;
-			this->label12->Text = L"Ìàñøòàá Y";
+			this->label12->Text = L"ÐœÐ°ÑÑˆÑ‚Ð°Ð± Y";
 			// 
 			// txtScaleX
 			// 
@@ -262,7 +262,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(199, 26);
 			this->label1->TabIndex = 9;
-			this->label1->Text = L"Íà÷àëüíîå îòêëîíåíèå âòîðîãî ïëå÷à\r\nâ ãðàäóñàõ: 0";
+			this->label1->Text = L"ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð¸Ðµ Ð²Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°\r\nÐ² Ð³Ñ€Ð°Ð´ÑƒÑÐ°Ñ…: 0";
 			this->label1->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Length_First
@@ -285,7 +285,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(82, 13);
 			this->label2->TabIndex = 10;
-			this->label2->Text = L"Ïåðâîãî ïëå÷à";
+			this->label2->Text = L"ÐŸÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°";
 			this->label2->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Off
@@ -308,7 +308,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label8->Name = L"label8";
 			this->label8->Size = System::Drawing::Size(80, 13);
 			this->label8->TabIndex = 10;
-			this->label8->Text = L"Âòîðîãî ïëå÷à";
+			this->label8->Text = L"Ð’Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°";
 			this->label8->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Length_Second
@@ -331,7 +331,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label13->Name = L"label13";
 			this->label13->Size = System::Drawing::Size(40, 13);
 			this->label13->TabIndex = 10;
-			this->label13->Text = L"Äëèíà";
+			this->label13->Text = L"Ð”Ð»Ð¸Ð½Ð°";
 			this->label13->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Track_a
@@ -357,7 +357,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label14->Name = L"label14";
 			this->label14->Size = System::Drawing::Size(200, 26);
 			this->label14->TabIndex = 9;
-			this->label14->Text = L"Íà÷àëüíîå îòêëîíåíèå ïåðâîãî ïëå÷à\r\nâ ãðàäóñàõ: 0";
+			this->label14->Text = L"ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°\r\nÐ² Ð³Ñ€Ð°Ð´ÑƒÑÐ°Ñ…: 0";
 			this->label14->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label15
@@ -369,7 +369,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label15->Name = L"label15";
 			this->label15->Size = System::Drawing::Size(41, 13);
 			this->label15->TabIndex = 12;
-			this->label15->Text = L"Âåñ íà";
+			this->label15->Text = L"Ð’ÐµÑ Ð½Ð°";
 			this->label15->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Text_weight_1
@@ -403,7 +403,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label16->Name = L"label16";
 			this->label16->Size = System::Drawing::Size(79, 13);
 			this->label16->TabIndex = 10;
-			this->label16->Text = L"Ïåðâîì ïëå÷å";
+			this->label16->Text = L"ÐŸÐµÑ€Ð²Ð¾Ð¼ Ð¿Ð»ÐµÑ‡Ðµ";
 			this->label16->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label17
@@ -415,7 +415,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label17->Name = L"label17";
 			this->label17->Size = System::Drawing::Size(77, 13);
 			this->label17->TabIndex = 10;
-			this->label17->Text = L"Âòîðîì ïëå÷å";
+			this->label17->Text = L"Ð’Ñ‚Ð¾Ñ€Ð¾Ð¼ Ð¿Ð»ÐµÑ‡Ðµ";
 			this->label17->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label18
@@ -427,7 +427,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label18->Name = L"label18";
 			this->label18->Size = System::Drawing::Size(71, 13);
 			this->label18->TabIndex = 10;
-			this->label18->Text = L"Íîðìàëüíàÿ";
+			this->label18->Text = L"ÐÐ¾Ñ€Ð¼Ð°Ð»ÑŒÐ½Ð°Ñ";
 			this->label18->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Length_First_normal
@@ -450,7 +450,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label20->Name = L"label20";
 			this->label20->Size = System::Drawing::Size(126, 13);
 			this->label20->TabIndex = 10;
-			this->label20->Text = L"Óãëîâàÿ ïåðâîãî ïëå÷à";
+			this->label20->Text = L"Ð£Ð³Ð»Ð¾Ð²Ð°Ñ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°";
 			this->label20->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label21
@@ -462,7 +462,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label21->Name = L"label21";
 			this->label21->Size = System::Drawing::Size(125, 13);
 			this->label21->TabIndex = 10;
-			this->label21->Text = L"Óãëîâàÿ âòîðîãî ïëå÷à";
+			this->label21->Text = L"Ð£Ð³Ð»Ð¾Ð²Ð°Ñ Ð²Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°";
 			this->label21->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label22
@@ -474,7 +474,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label22->Name = L"label22";
 			this->label22->Size = System::Drawing::Size(145, 13);
 			this->label22->TabIndex = 10;
-			this->label22->Text = L"Ðàñòÿæåíèÿ ïåðâîãî ïëå÷à";
+			this->label22->Text = L"Ð Ð°ÑÑ‚ÑÐ¶ÐµÐ½Ð¸Ñ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°";
 			this->label22->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label19
@@ -486,7 +486,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label19->Name = L"label19";
 			this->label19->Size = System::Drawing::Size(114, 13);
 			this->label19->TabIndex = 12;
-			this->label19->Text = L"Íà÷àëüíûå ñêîðîñòè";
+			this->label19->Text = L"ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ñ‹Ðµ ÑÐºÐ¾Ñ€Ð¾ÑÑ‚Ð¸";
 			this->label19->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Speed_a
@@ -531,7 +531,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(101, 13);
 			this->label3->TabIndex = 12;
-			this->label3->Text = L"Øàã ïî âðåìåíè dt";
+			this->label3->Text = L"Ð¨Ð°Ð³ Ð¿Ð¾ Ð²Ñ€ÐµÐ¼ÐµÐ½Ð¸ dt";
 			this->label3->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Text_dt
@@ -554,7 +554,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label4->Name = L"label4";
 			this->label4->Size = System::Drawing::Size(64, 13);
 			this->label4->TabIndex = 10;
-			this->label4->Text = L"Æ¸ñòêîñòü";
+			this->label4->Text = L"Ð–Ñ‘ÑÑ‚ÐºÐ¾ÑÑ‚ÑŒ";
 			this->label4->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Text_k
@@ -577,7 +577,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label5->Name = L"label5";
 			this->label5->Size = System::Drawing::Size(97, 13);
 			this->label5->TabIndex = 12;
-			this->label5->Text = L"Ýíåðãèÿ ñèñòåìû";
+			this->label5->Text = L"Ð­Ð½ÐµÑ€Ð³Ð¸Ñ ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
 			this->label5->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// label6
@@ -589,7 +589,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label6->Name = L"label6";
 			this->label6->Size = System::Drawing::Size(147, 13);
 			this->label6->TabIndex = 12;
-			this->label6->Text = L"Ìîìåíò èìïóëüñà ñèñòåìû";
+			this->label6->Text = L"ÐœÐ¾Ð¼ÐµÐ½Ñ‚ Ð¸Ð¼Ð¿ÑƒÐ»ÑŒÑÐ° ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹";
 			this->label6->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// Text_EnergySystem
@@ -625,7 +625,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label7->Name = L"label7";
 			this->label7->Size = System::Drawing::Size(87, 13);
 			this->label7->TabIndex = 12;
-			this->label7->Text = L"Òåêóùåå âðåìÿ";
+			this->label7->Text = L"Ð¢ÐµÐºÑƒÑ‰ÐµÐµ Ð²Ñ€ÐµÐ¼Ñ";
 			this->label7->TextAlign = System::Drawing::ContentAlignment::TopRight;
 			// 
 			// Text_CurTime
@@ -659,7 +659,7 @@ namespace CppCLR_WinformsProjekt {
 			this->label23->Name = L"label23";
 			this->label23->Size = System::Drawing::Size(170, 13);
 			this->label23->TabIndex = 12;
-			this->label23->Text = L"Óñêîðåíèå ñâîáîäíîãî ïàäåíèÿ";
+			this->label23->Text = L"Ð£ÑÐºÐ¾Ñ€ÐµÐ½Ð¸Ðµ ÑÐ²Ð¾Ð±Ð¾Ð´Ð½Ð¾Ð³Ð¾ Ð¿Ð°Ð´ÐµÐ½Ð¸Ñ";
 			this->label23->TextAlign = System::Drawing::ContentAlignment::TopCenter;
 			// 
 			// isDrawPendulum
@@ -671,7 +671,7 @@ namespace CppCLR_WinformsProjekt {
 			this->isDrawPendulum->Name = L"isDrawPendulum";
 			this->isDrawPendulum->Size = System::Drawing::Size(120, 17);
 			this->isDrawPendulum->TabIndex = 18;
-			this->isDrawPendulum->Text = L"Ðèñîàòü ìàÿòíèê\?";
+			this->isDrawPendulum->Text = L"Ð Ð¸ÑÐ¾Ð°Ñ‚ÑŒ Ð¼Ð°ÑÑ‚Ð½Ð¸Ðº\?";
 			this->isDrawPendulum->UseVisualStyleBackColor = true;
 			// 
 			// Form1
@@ -740,12 +740,12 @@ namespace CppCLR_WinformsProjekt {
 		}
 #pragma endregion
 		bool isOn;
-		float x1, y1, x2, y2; // êîíöà ïåðâîãî è âòîðîãî ïëå÷à.
-		float a_0, b_0, L_0, A_0, B_0, C_0, dt; // Íà÷àëüíûå äàííûå äëÿ ðåøåíèÿ äèôôóðà.
-		float a_1, b_1, L_1, A_1, B_1, C_1, l, M, m, lambda, g, k; // Ïåðåìåííûå íà øàãå n+1
-		int maxX, maxY, midX, midY; // Öåíòð êîîðäèíàò. 
-		float scaleX, scaleY = 50; // Ìàñøòàá îñåé 
-		float biasMidX = 0, biasMidY = 0; // Ñìåùåíèå îñåé îò öåíòðà êîîðäèíàò
+		float x1, y1, x2, y2; // ÐºÐ¾Ð½Ñ†Ð° Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¸ Ð²Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°.
+		float a_0, b_0, L_0, A_0, B_0, C_0, dt; // ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ñ‹Ðµ Ð´Ð°Ð½Ð½Ñ‹Ðµ Ð´Ð»Ñ Ñ€ÐµÑˆÐµÐ½Ð¸Ñ Ð´Ð¸Ñ„Ñ„ÑƒÑ€Ð°.
+		float a_1, b_1, L_1, A_1, B_1, C_1, l, M, m, lambda, g, k; // ÐŸÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ñ‹Ðµ Ð½Ð° ÑˆÐ°Ð³Ðµ n+1
+		int maxX, maxY, midX, midY; // Ð¦ÐµÐ½Ñ‚Ñ€ ÐºÐ¾Ð¾Ñ€Ð´Ð¸Ð½Ð°Ñ‚. 
+		float scaleX, scaleY = 50; // ÐœÐ°ÑÑˆÑ‚Ð°Ð± Ð¾ÑÐµÐ¹ 
+		float biasMidX = 0, biasMidY = 0; // Ð¡Ð¼ÐµÑ‰ÐµÐ½Ð¸Ðµ Ð¾ÑÐµÐ¹ Ð¾Ñ‚ Ñ†ÐµÐ½Ñ‚Ñ€Ð° ÐºÐ¾Ð¾Ñ€Ð´Ð¸Ð½Ð°Ñ‚
 		float cur_time;
 
 		RealtimeGraphic_Energy^ realtime_graphic_energy;
@@ -767,8 +767,8 @@ namespace CppCLR_WinformsProjekt {
 			a_0 = Track_a->Value * Math::PI / 180;
 			b_0 = Track_b->Value * Math::PI / 180;
 			L_0 = Convert::ToDouble(Length_First->Text);
-			label14->Text = Convert::ToString("Íà÷àëüíîå îòêëîíåíèå ïåðâîãî ïëå÷à\nâ ãðàäóñàõ: ") + Convert::ToString(Math::Round(a_0 * 180 / Math::PI));
-			label1->Text = Convert::ToString("Íà÷àëüíîå îòêëîíåíèå âòîðîãî ïëå÷à\nâ ãðàäóñàõ: ") + Convert::ToString(Math::Round(b_0 * 180 / Math::PI));
+			label14->Text = Convert::ToString("ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°\nÐ² Ð³Ñ€Ð°Ð´ÑƒÑÐ°Ñ…: ") + Convert::ToString(Math::Round(a_0 * 180 / Math::PI));
+			label1->Text = Convert::ToString("ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð¸Ðµ Ð²Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°\nÐ² Ð³Ñ€Ð°Ð´ÑƒÑÐ°Ñ…: ") + Convert::ToString(Math::Round(b_0 * 180 / Math::PI));
 
 			A_0 = Convert::ToDouble(Speed_a->Text);
 			B_0 = Convert::ToDouble(Speed_b->Text);
@@ -856,7 +856,7 @@ namespace CppCLR_WinformsProjekt {
 		void show() {
 			evaluate_next_step();
 
-			evaluate_xy(); // Ñ÷èòàåì ïîëîæåíèå êîíöîâ ìàÿòíèêà â äåêàðòîâîé ñèñòåìå. 
+			evaluate_xy(); // Ð¡Ñ‡Ð¸Ñ‚Ð°ÐµÐ¼ Ð¿Ð¾Ð»Ð¾Ð¶ÐµÐ½Ð¸Ðµ ÐºÐ¾Ð½Ñ†Ð¾Ð² Ð¼Ð°ÑÑ‚Ð½Ð¸ÐºÐ° Ð² Ð´ÐµÐºÐ°Ñ€Ñ‚Ð¾Ð²Ð¾Ð¹ ÑÐ¸ÑÑ‚ÐµÐ¼Ðµ. 
 			Text_CurTime->Text = Convert::ToString(cur_time);
 
 			if(isDrawPendulum->Checked) 
@@ -907,27 +907,27 @@ namespace CppCLR_WinformsProjekt {
 		}
 		void Track_a_Scroll(System::Object^  sender, System::EventArgs^  e) {
 			initialize_params();
-			label14->Text = Convert::ToString("Íà÷àëüíîå îòêëîíåíèå ïåðâîãî ïëå÷à\nâ ãðàäóñàõ: ") + Convert::ToString(Math::Round(a_0 * 180 / Math::PI));
+			label14->Text = Convert::ToString("ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð¸Ðµ Ð¿ÐµÑ€Ð²Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°\nÐ² Ð³Ñ€Ð°Ð´ÑƒÑÐ°Ñ…: ") + Convert::ToString(Math::Round(a_0 * 180 / Math::PI));
 
 			show();
 		}
 		void Track_b_Scroll(System::Object^  sender, System::EventArgs^  e) {
 			initialize_params();
-			label1->Text = Convert::ToString("Íà÷àëüíîå îòêëîíåíèå âòîðîãî ïëå÷à\nâ ãðàäóñàõ: ") + Convert::ToString(Math::Round(b_0 * 180 / Math::PI));
+			label1->Text = Convert::ToString("ÐÐ°Ñ‡Ð°Ð»ÑŒÐ½Ð¾Ðµ Ð¾Ñ‚ÐºÐ»Ð¾Ð½ÐµÐ½Ð¸Ðµ Ð²Ñ‚Ð¾Ñ€Ð¾Ð³Ð¾ Ð¿Ð»ÐµÑ‡Ð°\nÐ² Ð³Ñ€Ð°Ð´ÑƒÑÐ°Ñ…: ") + Convert::ToString(Math::Round(b_0 * 180 / Math::PI));
 
 			show();
 		}
 		void setCoords(System::Windows::Forms::PaintEventArgs^  e) {
 			drawLine(e, 0, -100, 0, 100); // Y
 			drawLine(e, -100, 0, 100, 0); // X
-										  // Ñòðåëêè Y
+										  // Ð¡Ñ‚Ñ€ÐµÐ»ÐºÐ¸ Y
 			e->Graphics->DrawLine(Pens::Black, midX, 0, midX - 4, 8);
 			e->Graphics->DrawLine(Pens::Black, midX, 0, midX + 4, 8);
-			// Ñòðåëêè X
+			// Ð¡Ñ‚Ñ€ÐµÐ»ÐºÐ¸ X
 			e->Graphics->DrawLine(Pens::Black, maxX, midY, maxX - 8, midY - 4);
 			e->Graphics->DrawLine(Pens::Black, maxX, midY, maxX - 8, midY + 4);
 			System::Drawing::Font^ font = gcnew System::Drawing::Font("Arial", 10);
-			// Çàñå÷êè X
+			// Ð—Ð°ÑÐµÑ‡ÐºÐ¸ X
 			int negative = -1;
 			int positive = 1;
 			for (int i = midX - scaleX, j = midX + scaleX; i > 0 || j < maxX; i -= scaleX, j += scaleX) {
@@ -936,7 +936,7 @@ namespace CppCLR_WinformsProjekt {
 				e->Graphics->DrawLine(Pens::Black, j, midY - 4, j, midY + 4);
 				e->Graphics->DrawString(Convert::ToString(positive++, 10), font, Brushes::Black, j - 6, midY + 4);
 			}
-			// Çàñå÷êè Y
+			// Ð—Ð°ÑÐµÑ‡ÐºÐ¸ Y
 			negative = -1;
 			positive = 1;
 			for (int i = midY - scaleY, j = midY + scaleY; i > 0 || j < maxY; i -= scaleY, j += scaleY) {
@@ -945,7 +945,7 @@ namespace CppCLR_WinformsProjekt {
 				e->Graphics->DrawLine(Pens::Black, midX - 4, j, midX + 4, j);
 				e->Graphics->DrawString(Convert::ToString(negative--, 10), font, Brushes::Black, midX + 4, j - 9);
 			}
-			// Íàçâàíèÿ îñåé
+			// ÐÐ°Ð·Ð²Ð°Ð½Ð¸Ñ Ð¾ÑÐµÐ¹
 			e->Graphics->DrawString("y", font, Brushes::Black, midX + 5, 0);
 			e->Graphics->DrawString("x", font, Brushes::Black, maxX - 10, midY - 25);
 		}
