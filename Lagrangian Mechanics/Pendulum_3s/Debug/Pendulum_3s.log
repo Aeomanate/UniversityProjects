@@ -1,0 +1,45 @@
+﻿  CppCLR_WinformsProjekt.cpp
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\RealtimeGraphic_Energy.h(16): warning C4677: RealtimeGraphic_Energy: сигнатура члена, не являющегося частным, содержит частный тип сборки "PointsStorage"
+  d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\PointsStorage.h(10): note:  см. объявление "PointsStorage"
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\RealtimeGraphic_Impulse.h(15): warning C4677: RealtimeGraphic_Impulse: сигнатура члена, не являющегося частным, содержит частный тип сборки "PointsStorage"
+  d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\PointsStorage.h(10): note:  см. объявление "PointsStorage"
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(753): warning C4677: energy_in_time: сигнатура члена, не являющегося частным, содержит частный тип сборки "PointsStorage"
+  d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\PointsStorage.h(10): note:  см. объявление "PointsStorage"
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(757): warning C4677: impulse_in_time: сигнатура члена, не являющегося частным, содержит частный тип сборки "PointsStorage"
+  d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\PointsStorage.h(10): note:  см. объявление "PointsStorage"
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(760): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(762): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(763): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(764): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(765): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(767): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(768): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(769): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(773): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(774): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(775): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(777): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(779): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(780): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(782): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(783): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(785): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(872): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(883): warning C4305: аргумент: усечение из "double" в "float"
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(899): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(900): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(904): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(905): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(933): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(933): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(933): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(935): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(937): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(942): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(942): warning C4244: -=: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(942): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(944): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(946): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(949): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dstu\cource 3\mmns\pendulum_3s\pendulum_3s\Form1.h(950): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Pendulum_3s.vcxproj -> D:\DSTU\Cource 3\MMNS\Pendulum_3s\Debug\Pendulum_3s.exe
